@@ -13,7 +13,7 @@ public:
 	void Render(const Vector2f& position, const float& angle);
 
 	const Vector2f GetSizeFloat() const;
-	const Vector2i& GetOriSize() const;
+	const Vector2i GetOriSize() const;
 	void SetSizeWithScale(const Vector2f& scale);
 	void SetSize(const Vector2i& scale);
 	void SetFlip(const int& flip);

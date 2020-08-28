@@ -11,7 +11,7 @@ public:
 	~Transform();
 
 	const Vector2f& GetPosition() const;
-	const Vector2f& GetCenterPosition() const;
+	const Vector2f GetCenterPosition() const;
 	const Vector2f& GetScale() const;
 	const float& GetRotation() const;
 	void SetPosition(const Vector2f& newPosition);

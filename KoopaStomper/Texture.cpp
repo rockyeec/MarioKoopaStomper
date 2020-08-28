@@ -67,7 +67,7 @@ const Vector2f Texture::GetSizeFloat() const
     return { float(mDstRect.w), float(mDstRect.h) };
 }
 
-const Vector2i& Texture::GetOriSize() const
+const Vector2i Texture::GetOriSize() const
 {
     return { mSrcRect.w, mSrcRect.h };
 }

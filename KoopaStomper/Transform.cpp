@@ -20,9 +20,9 @@ const Vector2f& Transform::GetPosition() const
     return mPosition;
 }
 
-const Vector2f& Transform::GetCenterPosition() const
+const Vector2f Transform::GetCenterPosition() const
 {
-    const Vector2f& halfSize = mGameObject.GetTexture().GetSizeFloat() / 2;
+    const Vector2f halfSize = mGameObject.GetTexture().GetSizeFloat() / 2;
     return mPosition + halfSize;
 }
 
