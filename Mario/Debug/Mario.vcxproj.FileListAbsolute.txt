@@ -1,2 +1,0 @@
-C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\Mario\Debug\Mario.exe
-C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\Mario\Debug\Mario.pdb
