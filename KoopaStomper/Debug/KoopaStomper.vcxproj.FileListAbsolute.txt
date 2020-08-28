@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Debug\KoopaStomper.exe
+C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Debug\KoopaStomper.pdb

@@ -13,5 +13,254 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\SDL">
+      <UniqueIdentifier>{163b30a1-00a5-4027-b37f-0171a776a7e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{58dd82ab-f520-427d-88e9-1120a17d6a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Sounds">
+      <UniqueIdentifier>{aa15834a-115e-4e7b-83b2-7839abf31eec}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Actor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BoxCollider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Collisions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KoopaEnemyActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LuigiEnemyActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Spawner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Waypoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BoxCollider.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Collisions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KoopaEnemyActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LuigiEnemyActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mathf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Spawner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Waypoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="libfreetype-6.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="libpng16-16.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="SDL2.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="SDL2_image.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="SDL2_mixer.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="SDL2_ttf.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+    <None Include="zlib1.dll">
+      <Filter>Source Files\SDL</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="SDL2.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+    <Library Include="SDL2_image.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+    <Library Include="SDL2_mixer.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+    <Library Include="SDL2_ttf.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+    <Library Include="SDL2main.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+    <Library Include="SDL2test.lib">
+      <Filter>Source Files\SDL</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Images\Arrow.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\bg.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Koopa.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Luigi.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Mario Animated.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\Mario.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\PowBlock.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+    <Image Include="Resources\Images\tile.png">
+      <Filter>Resource Files\Images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\Sounds\jump.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\music.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
+    <Media Include="Resources\Sounds\stomp.wav">
+      <Filter>Resource Files\Sounds</Filter>
+    </Media>
   </ItemGroup>
 </Project>
