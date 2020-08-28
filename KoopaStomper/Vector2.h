@@ -99,7 +99,7 @@ struct Vector2
 	}
 	float GetRadians() const
 	{
-		return atan2f((float)y, (float)x);
+		return (T)atan2f((float)y, (float)x);
 	}
 
 	bool operator == (const Vector2& other) const

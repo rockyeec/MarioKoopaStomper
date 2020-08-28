@@ -1,31 +1,21 @@
 ﻿  Actor.cpp
   Animation.cpp
   Arrow.cpp
-  AudioManager.cpp
   Background.cpp
-  BoxCollider.cpp
   Camera.cpp
-  Collisions.cpp
   EnemyActor.cpp
   Game.cpp
   GameObject.cpp
   Graphics.cpp
-  Input.cpp
   KoopaEnemyActor.cpp
   Level.cpp
   LuigiEnemyActor.cpp
-  main.cpp
   PlayerActor.cpp
-  Random.cpp
   Spawner.cpp
-  Generating Code...
-  Compiling...
   Texture.cpp
   Tile.cpp
-  Time.cpp
   Transform.cpp
   Waypoint.cpp
+  main.cpp
   Generating Code...
-C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Transform.cpp(26): warning C4172: returning address of local variable or temporary
-C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Texture.cpp(72): warning C4172: returning address of local variable or temporary
   KoopaStomper.vcxproj -> C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Debug\KoopaStomper.exe
