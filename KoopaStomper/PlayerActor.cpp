@@ -148,7 +148,7 @@ void PlayerActor::InitializeAnimations()
 void PlayerActor::HandleAnimations(const float& deltaTime)
 {
     if (!IsFalling() && mJump.mIsOnGround)
-        mAnimations.curAnimation = (mHorizontalInput != 0) ? &mAnimations.run : &mAnimations.idle;
+        mAnimations.curAnimation = (Mathf::Abs(mHorizontalInput) > 0.3f) ? &mAnimations.run : &mAnimations.idle;
 
     mAnimations.curAnimation->Update(deltaTime);
 }

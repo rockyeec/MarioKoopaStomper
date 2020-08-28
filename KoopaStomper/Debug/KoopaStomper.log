@@ -1,21 +1,2 @@
-﻿  Actor.cpp
-  Animation.cpp
-  Arrow.cpp
-  Background.cpp
-  Camera.cpp
-  EnemyActor.cpp
-  Game.cpp
-  GameObject.cpp
-  Graphics.cpp
-  KoopaEnemyActor.cpp
-  Level.cpp
-  LuigiEnemyActor.cpp
-  PlayerActor.cpp
-  Spawner.cpp
-  Texture.cpp
-  Tile.cpp
-  Transform.cpp
-  Waypoint.cpp
-  main.cpp
-  Generating Code...
+﻿  PlayerActor.cpp
   KoopaStomper.vcxproj -> C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\KoopaStomper\KoopaStomper\Debug\KoopaStomper.exe
