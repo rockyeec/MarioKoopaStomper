@@ -1,0 +1,15 @@
+﻿  Actor.cpp
+  Arrow.cpp
+  EnemyActor.cpp
+  Game.cpp
+  KoopaEnemyActor.cpp
+  LuigiEnemyActor.cpp
+  PlayerActor.cpp
+  Spawner.cpp
+  Waypoint.cpp
+  Generating code
+  4 of 513 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mario.vcxproj -> C:\Users\user\Desktop\rockyeec\GameDev\C++Projects\OOSAD\mario\Mario\Release\Mario.exe
